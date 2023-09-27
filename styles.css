@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 40px;
+    background-color: #DEF5FA;
+}
+
+button {
+    width: 40%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 40px;
+    background-color: #FAE5FC;
+}
